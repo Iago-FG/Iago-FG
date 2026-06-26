@@ -17,8 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-   <img src="https://img.icons8.com/?size=154&id=40669&format=png" height="30" alt="c++ logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=154&id=40669&format=png" height="30" alt="c++ logo"  />
 </div>
 
 ###
