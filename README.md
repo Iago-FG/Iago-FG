@@ -19,9 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=154&id=40669&format=png" height="30" alt="c++logo"  />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEtKD-SuIhbRvQo3NVndUkt1j8_SLc5xpEOl3LD2bdvPs1kHkC2E7nOk&s=10" height"30" alt="sql logo" />
-  <img width"12" />
+  <img src="https://img.icons8.com/?size=154&id=40669&format=png" height="30" alt="c++logo"/>
  
 </div>
 
