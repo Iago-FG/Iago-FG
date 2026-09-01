@@ -18,9 +18,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=154&id=40669&format=png" height="30" alt="c++ logo"  />
-  <img src="<img width="152" height="148" alt="image" src="https://github.com/user-attachments/assets/b8981064-dc62-4e57-b3b1-4325295f2c73" />
-" height="30" alt="sql logo"  />
+  <img src="https://img.icons8.com/?size=154&id=40669&format=png" height="30" alt="sql logo"  />
+  
 </div>
 
 ###
